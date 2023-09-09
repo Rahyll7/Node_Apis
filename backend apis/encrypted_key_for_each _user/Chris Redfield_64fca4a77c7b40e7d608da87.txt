@@ -1,0 +1,2 @@
+Name: Chris Redfield
+Encryption Key: 1a78de7059465b2c001372f07f14363a6576ac776cce9154e056acbf29bdba31
