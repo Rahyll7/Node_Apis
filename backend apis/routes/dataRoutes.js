@@ -34,7 +34,7 @@ router.post("/", async (req, res) => {
 
     fs.writeFileSync(
       filePath,
-      `Name: ${name}\nEncryption Key: ${encryptionKey}\nObject ID: ${objectId}`
+      `Name: ${name}\nEncryption Key: ${encryptionKey}`
     );
 
     const newData = new Data({
